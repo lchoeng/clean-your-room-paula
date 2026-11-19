@@ -1,6 +1,6 @@
 # Clean Your Room! Friends Edition
 
-A copy of Clean Your Room! with friends as the characters. Daddy chases Mommy, Olivia or Maya through the house because he wants them to clean their rooms!
+A copy of Clean Your Room! with friends as the characters. Daddy chases Mommy, Kaylee or Maya through the house because he wants them to clean their rooms!
 
 **Play:** open `index.html` in a browser (works on iPhone — turn it sideways).
 
